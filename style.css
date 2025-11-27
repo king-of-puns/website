@@ -1,0 +1,17 @@
+body{
+    font-family:Arial;
+    text-align: center;
+    background-image: url(assets/images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.home-button{
+    border-radius: 20px;
+    color: lime;
+}
+video{
+    border-style: double;
+    padding: 10px;
+    background-color: antiquewhite;
+}
